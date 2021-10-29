@@ -1,4 +1,4 @@
-# solid-rectangle-pattern
+# solid-Triangle-pattern
 this is about a c program to print  solid Tritangle pattern 
 #include<stdio.h>
 int main()
